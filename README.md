@@ -1,7 +1,7 @@
 ### 😎🚀 Hi I am Kunal chaudhary 
 
 
-<img src="https://avatars.githubusercontent.com/u/96905815?s=400&u=553c5881b1c1c05f3243bf2ff49fd054692238b5&v=4" width="500px">
+<img src="https://avatars.githubusercontent.com/u/96905815?s=400&u=553c5881b1c1c05f3243bf2ff49fd054692238b5&v=4" width="500px" style="border-radius:50%">
 
 ### Expert on 🎓
 
