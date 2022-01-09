@@ -4,7 +4,7 @@
 <img src="https://avatars.githubusercontent.com/u/96905815?s=400&u=553c5881b1c1c05f3243bf2ff49fd054692238b5&v=4" width="500px" >
 
 
-<img src="https://github.com/codewithkunal404/codewithkunal404/blob/main/src/zjmlvtfo_0.jpg" width="500px">
+
 
 ### Expert on 🎓
 
