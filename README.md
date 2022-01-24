@@ -16,7 +16,6 @@
 
 >## <img src="https://cdn-icons-png.flaticon.com/512/5968/5968672.png" width="50px"> Bootstrap
 
->## <img src="https://cdn-icons.flaticon.com/png/512/1379/premium/1379905.png?token=exp=1641913122~hmac=ec66399847c6a8b0a8bd3e97857fc836" width="50px">Projects
 
 
 
