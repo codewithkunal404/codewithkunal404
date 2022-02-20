@@ -13,13 +13,13 @@
 
 ### Expert on 🎓
 
->## <img src="https://cdn-icons-png.flaticon.com/512/1051/1051277.png" width="50px"> Html
+>## <a href="#"> <img src="https://cdn-icons-png.flaticon.com/512/1051/1051277.png" width="50px"> </a> Html
 
->## <a href="https://github.com/codewithkunal404/css-tutorial"><img src="https://cdn-icons-png.flaticon.com/512/732/732190.png" width="50px"> Css</a>
+>## <a href="https://github.com/codewithkunal404/css-tutorial"><img src="https://cdn-icons-png.flaticon.com/512/732/732190.png" width="50px"></a> Css
 
->## <img src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png" width="50px"> Javascript
+>##  <a href="#"> <img src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png" width="50px"></a> Javascript
 
->## <img src="https://cdn-icons-png.flaticon.com/512/5968/5968672.png" width="50px"> Bootstrap
+>## <a href="#"> <img src="https://cdn-icons-png.flaticon.com/512/5968/5968672.png" width="50px"></a> Bootstrap
 
 
 <br>
