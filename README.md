@@ -39,9 +39,24 @@
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with......
 - 💬 Ask me about ...
-- 📫 How to reach me: https://codewithkunal404.github.io
--  facebook-https://www.facebook.com/people/Kunal...
--  instagram- https://www.instagram.com/codewithkunal404/
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ⚡ Fun fact: ..
+
+# 📫 How to reach me:
+
+### Youtube 
+<a href="https://www.youtube.com/channel/UCPOBQjBYfP1w91Z77pZLbFg"><img src="https://cdn-icons-png.flaticon.com/512/174/174883.png" width="80px" ></a>  
+
+### Facebook
+<a href="https://www.facebook.com/photo/?fbid=109013541675751&set=a.109009865009452"><img src="https://cdn-icons-png.flaticon.com/512/733/733547.png" width="80px" ></a>
+
+### Github
+<a href="https://github.com/codewithkunal404"><img src="https://cdn-icons-png.flaticon.com/512/270/270798.png" width="80px" ></a>
+
+
+### Instagram
+<a href="https://www.instagram.com/codewithkunal404/"><img src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" width="80px" ></a>
+
+### Website
+<a href="https://codewithkunal404.github.io/"><img src="imageweb.png" width="200px" ></a>
+
