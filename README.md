@@ -11,13 +11,15 @@
 ># 😎 👩🏼‍💻 How to Improve Your Coding ~
 <img src="https://github.com/codewithkunal404/codewithkunal404/blob/main/undraw_developer_activity_re_39tg.svg" width="500px">
 <br>
+
+># 😎 👩🏼‍💻 Techniques | Tricks ~
 <img src="https://github.com/codewithkunal404/codewithkunal404/blob/main/undraw_version_control_re_mg66.svg" width="500px">
 
 
 <br>
 
 ># 🧑🏽‍🎓 🧑🏽‍🎓 Easy Steps to make professional developer ~
-<img src="https://images.pexels.com/photos/5935794/pexels-photo-5935794.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1" width="800px" height="500px">
+<img src="https://github.com/codewithkunal404/codewithkunal404/blob/main/undraw_open_source_-1-qxw.svg" width="500px">
 
 
 
