@@ -55,6 +55,11 @@
 
 ## 😎 Here are some ideas to get you started:
 
+
+<br>
+<img src="https://github.com/codewithkunal404/codewithkunal404/blob/main/undraw_design_components_9vy6.svg" width="300px">
+<br>
+
 - 🔭 I’m currently working on live Projects...
 - 🌱 I’m currently learning Webdesigning....
 - 👯 I’m looking to collaborate on ...
