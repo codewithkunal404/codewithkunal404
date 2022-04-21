@@ -53,7 +53,7 @@
 
 
 
-## 😎 Here are some ideas to get you started:
+># 😎 Here are some ideas to get you started:
 
 
 <br>
@@ -68,7 +68,9 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ..
 
-# 📫 How to reach me:
+<br>
+
+># 📫 How to reach me:
 
 ### Youtube 
 <a href="https://www.youtube.com/channel/UCPOBQjBYfP1w91Z77pZLbFg"><img src="https://cdn-icons-png.flaticon.com/512/174/174883.png" width="80px" ></a>  
