@@ -9,7 +9,7 @@
 
 
 ># 😎 👩🏼‍💻 How to Improve Your Coding ~
-<img src="https://images.pexels.com/photos/3987066/pexels-photo-3987066.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1" width="800px" height="500px" >
+<img src="https://github.com/codewithkunal404/codewithkunal404/blob/main/undraw_developer_activity_re_39tg.svg" width="800px" height="500px" >
 
 
 <br>
