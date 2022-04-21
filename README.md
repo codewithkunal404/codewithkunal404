@@ -27,6 +27,10 @@
 
 ># Expert on 🎓 ~
 
+<br>
+<img src="https://github.com/codewithkunal404/codewithkunal404/blob/main/undraw_static_assets_rpm6.svg" width="500px">
+<br>
+
 ## <a href="#"> <img src="https://cdn-icons-png.flaticon.com/512/1051/1051277.png" width="50px"> </a> Html | Html5
 
 ## <a href="https://github.com/codewithkunal404/css-tutorial"><img src="https://cdn-icons-png.flaticon.com/512/732/732190.png" width="50px"></a> CSS | CSS3
