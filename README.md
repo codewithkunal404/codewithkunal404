@@ -85,8 +85,11 @@
 
 
 <br>
->#  🤩 🥳 Thank you for see my presentation ~ 
+
+># 🤩 🥳Thank you for see my presentation ~ 
+
+
 <br>
-<img src="https://github.com/codewithkunal404/codewithkunal404/blob/main/undraw_super_thank_you_re_f8bo.svg" width="400px">
+<img src="https://github.com/codewithkunal404/codewithkunal404/blob/main/undraw_super_thank_you_re_f8bo.svg" width="300px">
 
 
