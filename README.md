@@ -1,4 +1,5 @@
 ### 😎🚀 Hi I am Kunal chaudhary 
+### 😎🚀 ~ Codewithkunal404 ~
 
 
 <img src="https://avatars.githubusercontent.com/u/96905815?s=400&u=553c5881b1c1c05f3243bf2ff49fd054692238b5&v=4" width="400px" >       <img src="https://github.com/codewithkunal404/codewithkunal404/blob/main/Full%20stack%20Developer.png" width="400px" >
@@ -7,23 +8,27 @@
 
 
 
-
+# How to Improve Your Coding
 <img src="https://images.pexels.com/photos/3987066/pexels-photo-3987066.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1" width="800px" height="500px" >
 
+
+
+# Easy Steps to make professional developer
 <img src="https://images.pexels.com/photos/5935794/pexels-photo-5935794.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1" width="800px" height="500px">
 
 
 
 
-### Expert on 🎓
 
->## <a href="#"> <img src="https://cdn-icons-png.flaticon.com/512/1051/1051277.png" width="50px"> </a> Html
+## Expert on 🎓
 
->## <a href="https://github.com/codewithkunal404/css-tutorial"><img src="https://cdn-icons-png.flaticon.com/512/732/732190.png" width="50px"></a> Css
+>## <a href="#"> <img src="https://cdn-icons-png.flaticon.com/512/1051/1051277.png" width="50px"> </a> Html | Html5
 
->##  <a href="#"> <img src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png" width="50px"></a> Javascript
+>## <a href="https://github.com/codewithkunal404/css-tutorial"><img src="https://cdn-icons-png.flaticon.com/512/732/732190.png" width="50px"></a> CSS | CSS3
 
->## <a href="#"> <img src="https://cdn-icons-png.flaticon.com/512/5968/5968672.png" width="50px"></a> Bootstrap
+>##  <a href="#"> <img src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png" width="50px"></a> Javascript | JQuery | API
+
+>## <a href="#"> <img src="https://cdn-icons-png.flaticon.com/512/5968/5968672.png" width="50px"></a> Bootstrap 
 
 
 <br>
