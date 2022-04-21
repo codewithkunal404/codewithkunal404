@@ -1,16 +1,16 @@
 ### 😎🚀 Hi I am Kunal chaudhary 
 
 
-<img src="https://avatars.githubusercontent.com/u/96905815?s=400&u=553c5881b1c1c05f3243bf2ff49fd054692238b5&v=4" width="400px" >   <img src="https://github.com/codewithkunal404/codewithkunal404/blob/main/Full%20stack%20Developer.png" width="400px" >
+<img src="https://avatars.githubusercontent.com/u/96905815?s=400&u=553c5881b1c1c05f3243bf2ff49fd054692238b5&v=4" width="400px" >       <img src="https://github.com/codewithkunal404/codewithkunal404/blob/main/Full%20stack%20Developer.png" width="400px" >
 
 
 
 
 
 
-<img src="https://images.pexels.com/photos/3987066/pexels-photo-3987066.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1" width="800px" height="400px" >
+<img src="https://images.pexels.com/photos/3987066/pexels-photo-3987066.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1" width="800px" height="500px" >
 
-<img src="https://images.pexels.com/photos/5935794/pexels-photo-5935794.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1" width="800px" height="400px">
+<img src="https://images.pexels.com/photos/5935794/pexels-photo-5935794.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1" width="800px" height="500px">
 
 
 
