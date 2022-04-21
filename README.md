@@ -86,7 +86,7 @@
 
 <br>
 
-># 🤩 🥳Thank you for see my presentation ~ 
+># 🤩 🥳Thank you for see my profile ~ 
 
 
 <br>
