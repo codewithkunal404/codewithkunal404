@@ -8,24 +8,24 @@
 <br>
 
 
-># 😎 👩🏼‍💻 How to Improve Your Coding ~
+>## 😎 👩🏼‍💻 How to Improve Your Coding ~
 <img src="https://github.com/codewithkunal404/codewithkunal404/blob/main/undraw_developer_activity_re_39tg.svg" width="400px">
 <br>
 
-># 😎 👩🏼‍💻 Techniques | Tricks ~
+>## 😎 👩🏼‍💻 Techniques | Tricks ~
 <img src="https://github.com/codewithkunal404/codewithkunal404/blob/main/undraw_version_control_re_mg66.svg" width="500px">
 
 
 <br>
 
-># 😎🚀 Easy Steps to make professional developer ~
+>## 😎🚀 Easy Steps to make professional developer ~
 <img src="https://github.com/codewithkunal404/codewithkunal404/blob/main/undraw_open_source_-1-qxw.svg" width="500px">
 
 <br>
 
 
 
-># Expert on 🎓 ~
+>## Expert on 🎓 ~
 
 <br>
 <img src="https://github.com/codewithkunal404/codewithkunal404/blob/main/undraw_static_assets_rpm6.svg" width="500px">
@@ -53,7 +53,7 @@
 
 
 
-># 😎 Here are some ideas to get you started:
+>## 😎 Here are some ideas to get you started:
 
 
 <br>
@@ -70,7 +70,7 @@
 
 <br>
 
-># 📫 How to reach me:
+>## 📫 How to reach me:
 
 ### Youtube 
 <a href="https://www.youtube.com/channel/UCPOBQjBYfP1w91Z77pZLbFg"><img src="https://cdn-icons-png.flaticon.com/512/174/174883.png" width="80px" ></a>  
@@ -88,7 +88,7 @@
 
 <br>
 
-># 🤩 🥳Thank you for see my profile ~ 
+>## 🤩 🥳Thank you for see my profile ~ 
 
 
 <br>
