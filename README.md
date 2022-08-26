@@ -1,4 +1,4 @@
-### 😎🚀 Hi I am Kunal chaudhary  ~
+### 😎🚀 Hi I am Kunal  ~
 ### 😎🚀 ~ Codewithkunal404 ~
 
 
