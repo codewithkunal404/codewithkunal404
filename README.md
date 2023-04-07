@@ -5,15 +5,15 @@
 <img src="https://avatars.githubusercontent.com/u/96905815?s=400&u=553c5881b1c1c05f3243bf2ff49fd054692238b5&v=4" width="400px" > 
 
 
->## Hi 👋 I Am A ✨ Full Stack Developer And Corporate Trainer ✨
-🔭 I’m currently working on Ducat India Pvt. Ltd.
-🌱 I’m currently learning React and node
-👯 I’m looking to collaborate on youtube
-🤔 I’m looking for help with ????
-💬 i am a fullstack developer with php and node
-📫 How to reach me: https://github.com/codewithkunal404
-😄 Pronouns: https://codewithkunal404.github.io/
-⚡ Project suite : https://github.com/codewithkunal404/Our-Projects
+>## Hi 👋 I Am A ✨ Full Stack Developer And Programming Trainer ✨
+###🔭 I’m currently working on Ducat India Pvt. Ltd.
+###🌱 I’m currently learning React and node
+###👯 I’m looking to collaborate on youtube
+###🤔 I’m looking for help with ????
+###💬 i am a fullstack developer with php and node
+###📫 How to reach me: https://github.com/codewithkunal404
+###😄 Pronouns: https://codewithkunal404.github.io/
+###⚡ Project suite : https://github.com/codewithkunal404/Our-Projects
 
 
 
