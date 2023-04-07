@@ -97,7 +97,7 @@ In addition to mastering HTML and CSS, he/she also knows how to:
 
 <details>
 <summary>pros & Cons</summary>
->Advantages
+>## Advantages
 The advantage of being a full stack web developer is:
 
 - You can master all the techniques involved in a development project
@@ -108,7 +108,7 @@ The advantage of being a full stack web developer is:
 - You can switch between front and back end development based on requirements
 - You can better understand all aspects of new and upcoming technologies
 
->Disadvantages
+>## Disadvantages
 - The solution chosen can be wrong for the project
 - The solution chosen can be dependent on developer skills
 - The solution can generate a key person risk
