@@ -5,7 +5,7 @@
 <img src="https://avatars.githubusercontent.com/u/96905815?s=400&u=553c5881b1c1c05f3243bf2ff49fd054692238b5&v=4" width="400px" > 
 
 
-Hi 👋 I Am A ✨ Full Stack Developer And Corporate Trainer ✨
+>## Hi 👋 I Am A ✨ Full Stack Developer And Corporate Trainer ✨
 🔭 I’m currently working on Ducat India Pvt. Ltd.
 🌱 I’m currently learning React and node
 👯 I’m looking to collaborate on youtube
@@ -15,7 +15,7 @@ Hi 👋 I Am A ✨ Full Stack Developer And Corporate Trainer ✨
 😄 Pronouns: https://codewithkunal404.github.io/
 ⚡ Project suite : https://github.com/codewithkunal404/Our-Projects
 
->## 📫 How to reach me:
+
 
 ### Youtube 
 <a href="https://www.youtube.com/channel/UCPOBQjBYfP1w91Z77pZLbFg"><img src="https://cdn-icons-png.flaticon.com/512/174/174883.png" width="80px" ></a>  
