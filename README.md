@@ -16,6 +16,21 @@
 - 😄 Pronouns: https://codewithkunal404.github.io/
 - ⚡ Project suite : https://github.com/codewithkunal404/Our-Projects
 
+<details>
+
+<summary>Tips for fullstackdevelopement path</summary>
+
+### You can add a header
+
+You can add text within a collapsed section. 
+
+You can add an image or a code block, too.
+
+```ruby
+   puts "Hello World"
+```
+
+</details>
 
 
 ### Youtube 
