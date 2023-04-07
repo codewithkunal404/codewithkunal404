@@ -73,7 +73,7 @@
 
 <summary>What is full stack Developer</summary>
 Full Stack Web Developer
->A full stack web developer is a person who can develop both client and server software.
+> A full stack web developer is a person who can develop both client and server software.
 
 In addition to mastering HTML and CSS, he/she also knows how to:
 
@@ -97,8 +97,10 @@ In addition to mastering HTML and CSS, he/she also knows how to:
 
 <details>
 <summary>pros & Cons</summary>
+   
 >## Advantages
-The advantage of being a full stack web developer is:
+   
+> The advantage of being a full stack web developer is:
 
 - You can master all the techniques involved in a development project
 - You can make a prototype very rapidly
