@@ -2,14 +2,13 @@
 
 
 
-### 😎🚀 ʜɪ ɪ ᴀᴍ  ᴋᴜɴᴀʟ ~
-### 😎🚀 🇨​​🇴​​🇩​​🇪​​🇼​​🇮​​🇹​​🇭​​🇰​​🇺​​🇳​​🇦​​🇱​4️⃣0️⃣4️⃣
+### 😎🚀 ▌│█║▌║▌║ ｈｉ Ｉ ａｍ Ｋｕｎａｌ Ｃｈａｕｄｈａｒｙ ║▌║▌║█│▌
+<br>
 
-### 🚀 About Me
+### 😎🚀 🅲🅾🅳🅴🆆🅸🆃🅷🅺🆄🅽🅰🅻404
+<br>
 
-
-
->## 𝓗𝓲 👋 𝓘 𝓐𝓶 𝓐 ✨ 𝓕𝓾𝓵𝓵 𝓢𝓽𝓪𝓬𝓴 𝓓𝓮𝓿𝓮𝓵𝓸𝓹𝓮𝓻 𝓐𝓷𝓭 𝓟𝓻𝓸𝓰𝓻𝓪𝓶𝓶𝓲𝓷𝓰 𝓣𝓻𝓪𝓲𝓷𝓮𝓻 ✨
+## 𝓗𝓲 👋 𝓘 𝓐𝓶 𝓐 ✨ 𝓕𝓾𝓵𝓵 𝓢𝓽𝓪𝓬𝓴 𝓓𝓮𝓿𝓮𝓵𝓸𝓹𝓮𝓻 𝓐𝓷𝓭 𝓟𝓻𝓸𝓰𝓻𝓪𝓶𝓶𝓲𝓷𝓰 𝓣𝓻𝓪𝓲𝓷𝓮𝓻 ✨
 - 🔭 I’m currently working on NCTC COMPUTER EDUCATION.
 - 📫 well trained from Ducat India Pvt. Ltd.
 - 🌱 I’m currently learning React and node
@@ -21,7 +20,9 @@
 - ⚡ Project suite : https://github.com/codewithkunal404/Our-Projects
 
 
->## 🤔 Questions | Doubts
+<br>
+
+>## 🤔 ıllıllı FAQ ıllıllı
 
 
 <details>
@@ -122,7 +123,9 @@ In addition to mastering HTML and CSS, he/she also knows how to:
 
 </details>
 
-## Badges
+<br>
+
+## ░▒▓█ 𝙱𝚊𝚍𝚐𝚎𝚜 █▓▒░
 
 
 [![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://github.com/codewithkunal404/Our-Projects/blob/main/LICENSE)
@@ -133,33 +136,49 @@ In addition to mastering HTML and CSS, he/she also knows how to:
 
 [![youtube](https://img.shields.io/powershellgallery/dt/Azure.Storage)](https://github.com/codewithkunal404)
 
+<br>
 
+## 🆂🅺🅸🅻🅻🆂
 
-## Skills
-
- - Html | Html5
- - CSS | CSS3
- - Javacript | nodejs | react js
- - php | laravel
- - Jquery | Bootstrap
- - java | python (core)
- - Android
- - wordpress
- - blogger
- - github profile maker
+ 𝐇𝐭𝐦𝐥 | 𝐇𝐭𝐦𝐥𝟓 
+ <br>
+ 𝐂𝐒𝐒 | 𝐂𝐒𝐒𝟑
+ <br>
+ 𝐉𝐚𝐯𝐚𝐜𝐫𝐢𝐩𝐭 | 𝐧𝐨𝐝𝐞𝐣𝐬 | 𝐫𝐞𝐚𝐜𝐭 𝐣𝐬 
+ <br>
+ 𝐩𝐡𝐩 | 𝐥𝐚𝐫𝐚𝐯𝐞𝐥 
+ <br>
+ 𝐉𝐪𝐮𝐞𝐫𝐲 | 𝐁𝐨𝐨𝐭𝐬𝐭𝐫𝐚𝐩 
+ <br>
+ 𝐣𝐚𝐯𝐚 | 𝐩𝐲𝐭𝐡𝐨𝐧 (𝐜𝐨𝐫𝐞) 
+ <br>
+ 𝐀𝐧𝐝𝐫𝐨𝐢𝐝 
+ <br>
+ 𝐰𝐨𝐫𝐝𝐩𝐫𝐞𝐬𝐬
+ <br>
+ 𝐛𝐥𝐨𝐠𝐠𝐞𝐫 
+ <br>
+ 𝐦𝐲𝐬𝐪𝐥
+ 
+ <br>
  
 
-
-
-## Lessons Learned
-
-What did you learn while building this project? What challenges did you face and how did you overcome them?
-
-
-## Related
+## ▌│█║▌║▌║ 🆁🅴🅻🅰🆃🅴🅳 ║▌║▌║█│▌
 
 Here are some related projects
 
 [Projects](https://github.com/codewithkunal404/Our-Projects)
 
+<br>
+
+
+##  𝙏𝙚𝙘𝙝𝙣𝙤𝙡𝙤𝙜𝙞es
+
+**Client:** 𝐇𝐭𝐦𝐥 | 𝐇𝐭𝐦𝐥𝟓 ,  𝐂𝐒𝐒 | 𝐂𝐒𝐒𝟑 ,𝐫𝐞𝐚𝐜𝐭 𝐣𝐬 , 𝐉𝐪𝐮𝐞𝐫𝐲 | 𝐁𝐨𝐨𝐭𝐬𝐭𝐫𝐚𝐩 
+
+**Server:** Node, 𝐦𝐲𝐬𝐪𝐥 , 𝐩𝐡𝐩 | 𝐥𝐚𝐫𝐚𝐯𝐞𝐥 
+
+<br>
+
+# ▀▄▀▄▀▄ Ｔｈａｎｋ ｙｏｕ ▄▀▄▀▄▀
 
