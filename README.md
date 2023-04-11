@@ -3,7 +3,10 @@
 
 
 ### 😎🚀 ʜɪ ɪ ᴀᴍ  ᴋᴜɴᴀʟ ~
-### 😎🚀 🅲🅾🅳🅴🆆🅸🆃🅷🅺🆄🅽🅰🅻404
+### 😎🚀 🇨​​🇴​​🇩​​🇪​​🇼​​🇮​​🇹​​🇭​​🇰​​🇺​​🇳​​🇦​​🇱​4️⃣0️⃣4️⃣
+
+### 🚀 About Me
+
 
 
 >## 𝓗𝓲 👋 𝓘 𝓐𝓶 𝓐 ✨ 𝓕𝓾𝓵𝓵 𝓢𝓽𝓪𝓬𝓴 𝓓𝓮𝓿𝓮𝓵𝓸𝓹𝓮𝓻 𝓐𝓷𝓭 𝓟𝓻𝓸𝓰𝓻𝓪𝓶𝓶𝓲𝓷𝓰 𝓣𝓻𝓪𝓲𝓷𝓮𝓻 ✨
@@ -124,5 +127,25 @@ In addition to mastering HTML and CSS, he/she also knows how to:
 
 [![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://github.com/codewithkunal404/Our-Projects/blob/main/LICENSE)
 
+[![Rating](https://img.shields.io/amo/stars/dustman)](https://github.com/codewithkunal404)
+
+[![youtube](https://img.shields.io/youtube/channel/views/UCPOBQjBYfP1w91Z77pZLbFg?label=youtube&style=social)](https://www.youtube.com/channel/UCPOBQjBYfP1w91Z77pZLbFg)
+
+[![youtube](https://img.shields.io/powershellgallery/dt/Azure.Storage)](https://github.com/codewithkunal404)
+
+
+## 🛠 Skills
+Javascript, HTML, CSS ,php,laravel,Jquery,Bootstrap...
+
+## Lessons Learned
+
+What did you learn while building this project? What challenges did you face and how did you overcome them?
+
+
+## Related
+
+Here are some related projects
+
+[Projects](https://github.com/codewithkunal404/Our-Projects)
 
 
