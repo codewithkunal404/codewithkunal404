@@ -119,26 +119,13 @@ In addition to mastering HTML and CSS, he/she also knows how to:
 
 </details>
 
-### Youtube 
-<a href="https://www.youtube.com/channel/UCPOBQjBYfP1w91Z77pZLbFg"><img src="https://cdn-icons-png.flaticon.com/512/174/174883.png" width="80px" ></a>  
+## Badges
 
-### Facebook
-<a href="https://www.facebook.com/photo/?fbid=109013541675751&set=a.109009865009452"><img src="https://cdn-icons-png.flaticon.com/512/733/733547.png" width="80px" ></a>
+Add badges from somewhere like: [shields.io](https://shields.io/)
 
-### Github
-<a href="https://github.com/codewithkunal404"><img src="https://cdn-icons-png.flaticon.com/512/270/270798.png" width="80px" ></a>
+[![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)
+[![GPLv3 License](https://img.shields.io/badge/License-GPL%20v3-yellow.svg)](https://opensource.org/licenses/)
+[![AGPL License](https://img.shields.io/badge/license-AGPL-blue.svg)](http://www.gnu.org/licenses/agpl-3.0)
 
-
-### Instagram
-<a href="https://www.instagram.com/codewithkunal404/"><img src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" width="80px" ></a>
-
-
-<br>
-
->## 🤩 🥳Thank you for see my profile ~ 
-
-
-<br>
-<img src="https://github.com/codewithkunal404/codewithkunal404/blob/main/undraw_super_thank_you_re_f8bo.svg" width="300px">
 
 
