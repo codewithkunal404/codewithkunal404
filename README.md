@@ -1,8 +1,9 @@
+<img src="https://avatars.githubusercontent.com/u/96905815?s=400&u=553c5881b1c1c05f3243bf2ff49fd054692238b5&v=4" width="400px" > 
+
+
+
 ### 😎🚀 Hi I am Kunal  ~
 ### 😎🚀 ~ Codewithkunal404 ~
-
-
-<img src="https://avatars.githubusercontent.com/u/96905815?s=400&u=553c5881b1c1c05f3243bf2ff49fd054692238b5&v=4" width="400px" > 
 
 
 >## Hi 👋 I Am A ✨ Full Stack Developer And Programming Trainer ✨
