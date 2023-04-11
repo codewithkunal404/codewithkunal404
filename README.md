@@ -134,8 +134,22 @@ In addition to mastering HTML and CSS, he/she also knows how to:
 [![youtube](https://img.shields.io/powershellgallery/dt/Azure.Storage)](https://github.com/codewithkunal404)
 
 
-## 🛠 Skills
-Javascript, HTML, CSS ,php,laravel,Jquery,Bootstrap...
+
+## Skills
+
+ - Html | Html5
+ - CSS | CSS3
+ - Javacript | nodejs | react js
+ - php | laravel
+ - Jquery | Bootstrap
+ - java | python (core)
+ - Android
+ - wordpress
+ - blogger
+ - github profile maker
+ 
+
+
 
 ## Lessons Learned
 
