@@ -8,14 +8,23 @@
 
 
 
-### 😎🚀𝓗𝓲 👋 𝓘 𝓐𝓶 𝓐 ✨ 𝓕𝓾𝓵𝓵 𝓢𝓽𝓪𝓬𝓴 𝓓𝓮𝓿𝓮𝓵𝓸𝓹𝓮𝓻 𝓐𝓷𝓭 𝓟𝓻𝓸𝓰𝓻𝓪𝓶𝓶𝓲𝓷𝓰 𝓣𝓻𝓪𝓲𝓷𝓮𝓻 ✨<br>
+>###  😎🚀𝙝𝙞👋 𝙞 𝙖𝙢 𝙖 ✨ 𝙛𝙪𝙡𝙡 𝙨𝙩𝙖𝙘𝙠 𝙙𝙚𝙫𝙚𝙡𝙤𝙥𝙚𝙧 𝙖𝙣𝙙 𝘾𝙤𝙧𝙥𝙤𝙧𝙖𝙩𝙚 𝙏𝙧𝙖𝙞𝙣𝙚𝙧✨
+
 <br>
  
 
 
 
 >## 💫 About Me:
- 🔭 I’m currently working on NCTC COMPUTER EDUCATION.<br>📫 well trained from Ducat India Pvt. Ltd.<br>🌱 I’m currently learning React and node<br>👯 I’m looking to collaborate on youtube : https://www.youtube.com/channel/UCPOBQjBYfP1w91Z77pZLbFg<br>🤔 I’m looking for help with ????<br>💬 i am a fullstack developer with php and laravel<br>📫 How to reach me: https://github.com/codewithkunal404<br>😄 Pronouns: https://codewithkunal404.github.io/<br>⚡ Project suite : https://github.com/codewithkunal404/Our-Projects
+ - 🔭 I’m currently working on NCTC COMPUTER EDUCATION.
+ - 📫 well trained from Ducat India Pvt. Ltd.
+ - 🌱 I’m currently learning React and node
+ - 👯 I’m looking to collaborate on youtube : https://www.youtube.com/channel/UCPOBQjBYfP1w91Z77pZLbFg
+ - 🤔 I’m looking for help with ????
+ - 💬 i am a fullstack developer with php and laravel
+ - 📫 How to reach me: https://github.com/codewithkunal404
+ - 😄 Pronouns: https://codewithkunal404.github.io/
+ - ⚡ Project suite : https://github.com/codewithkunal404/Our-Projects
 
 
 <br>
