@@ -1,18 +1,21 @@
+# 😎🚀 🅲🅾🅳🅴🆆🅸🆃🅷🅺🆄🅽🅰🅻404
+
+<br>
+<br>
+
 <img src="https://avatars.githubusercontent.com/u/96905815?s=400&u=553c5881b1c1c05f3243bf2ff49fd054692238b5&v=4" width="400px" > 
 
 
 
 
-### 😎🚀 ▌│█║▌║▌║ ｈｉ Ｉ ａｍ Ｋｕｎaｌ Ｃｈａｕｄｈａｒｙ ║▌║▌║█│▌
+### 😎🚀𝓗𝓲 👋 𝓘 𝓐𝓶 𝓐 ✨ 𝓕𝓾𝓵𝓵 𝓢𝓽𝓪𝓬𝓴 𝓓𝓮𝓿𝓮𝓵𝓸𝓹𝓮𝓻 𝓐𝓷𝓭 𝓟𝓻𝓸𝓰𝓻𝓪𝓶𝓶𝓲𝓷𝓰 𝓣𝓻𝓪𝓲𝓷𝓮𝓻 ✨<br>
 <br>
  
 
-### 😎🚀 🅲🅾🅳🅴🆆🅸🆃🅷🅺🆄🅽🅰🅻404
-<br>
-<br>
+
 
 >## 💫 About Me:
- 𝓗𝓲 👋 𝓘 𝓐𝓶 𝓐 ✨ 𝓕𝓾𝓵𝓵 𝓢𝓽𝓪𝓬𝓴 𝓓𝓮𝓿𝓮𝓵𝓸𝓹𝓮𝓻 𝓐𝓷𝓭 𝓟𝓻𝓸𝓰𝓻𝓪𝓶𝓶𝓲𝓷𝓰 𝓣𝓻𝓪𝓲𝓷𝓮𝓻 ✨<br>🔭 I’m currently working on NCTC COMPUTER EDUCATION.<br>📫 well trained from Ducat India Pvt. Ltd.<br>🌱 I’m currently learning React and node<br>👯 I’m looking to collaborate on youtube : https://www.youtube.com/channel/UCPOBQjBYfP1w91Z77pZLbFg<br>🤔 I’m looking for help with ????<br>💬 i am a fullstack developer with php and laravel<br>📫 How to reach me: https://github.com/codewithkunal404<br>😄 Pronouns: https://codewithkunal404.github.io/<br>⚡ Project suite : https://github.com/codewithkunal404/Our-Projects
+ 🔭 I’m currently working on NCTC COMPUTER EDUCATION.<br>📫 well trained from Ducat India Pvt. Ltd.<br>🌱 I’m currently learning React and node<br>👯 I’m looking to collaborate on youtube : https://www.youtube.com/channel/UCPOBQjBYfP1w91Z77pZLbFg<br>🤔 I’m looking for help with ????<br>💬 i am a fullstack developer with php and laravel<br>📫 How to reach me: https://github.com/codewithkunal404<br>😄 Pronouns: https://codewithkunal404.github.io/<br>⚡ Project suite : https://github.com/codewithkunal404/Our-Projects
 
 
 <br>
@@ -157,7 +160,7 @@ In addition to mastering HTML and CSS, he/she also knows how to:
 <br>
 
 >## ✍️ Random Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+![](https://quotes-github-readme.vercel.app/api?type=vertical&theme=tokyonight)
 <br>
 <br>
 
@@ -174,7 +177,4 @@ In addition to mastering HTML and CSS, he/she also knows how to:
   [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/codewithkunal404) [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/codewithkunal404) [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/codewithkunal404) 
 
   
-<br>
-<br>
 
-## ▀▄▀▄▀▄ Ｔｈａｎｋ ｙｏｕ ▄▀▄▀▄▀
