@@ -8,6 +8,7 @@
 ### 😎🚀 🅲🅾🅳🅴🆆🅸🆃🅷🅺🆄🅽🅰🅻404
 <br>
 
+
 ## 𝓗𝓲 👋 𝓘 𝓐𝓶 𝓐 ✨ 𝓕𝓾𝓵𝓵 𝓢𝓽𝓪𝓬𝓴 𝓓𝓮𝓿𝓮𝓵𝓸𝓹𝓮𝓻 𝓐𝓷𝓭 𝓟𝓻𝓸𝓰𝓻𝓪𝓶𝓶𝓲𝓷𝓰 𝓣𝓻𝓪𝓲𝓷𝓮𝓻 ✨
 - 🔭 I’m currently working on NCTC COMPUTER EDUCATION.
 - 📫 well trained from Ducat India Pvt. Ltd.
