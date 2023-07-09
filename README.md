@@ -16,7 +16,7 @@
 
 
 >## 💫 About Me:
- - 🔭 I’m currently working on NCTC COMPUTER EDUCATION.
+ - 🔭 I’m currently work as Programming trainer.
  - 📫 well trained from Ducat India Pvt. Ltd.
  - 🌱 I’m currently learning React and node
  - 👯 I’m looking to collaborate on youtube : https://www.youtube.com/channel/UCPOBQjBYfP1w91Z77pZLbFg
