@@ -1,7 +1,12 @@
 # 🚀 CodeWithKunal404  
 
 <!-- <img src="https://avatars.githubusercontent.com/u/96905815?s=400&u=553c5881b1c1c05f3243bf2ff49fd054692238b5&v=4" width="150" align="right"> -->
-<img src="https://media.licdn.com/dms/image/v2/D4D03AQEm4vmgVYOuRg/profile-displayphoto-crop_800_800/B4DZoqZmI3JMAI-/0/1761647944926?e=1763596800&v=beta&t=Ns4R9n8zcRXWeZlEhrnXWjE0zGKCJRO3-1W-1eOrMMA" width="150" align="right"> 
+<img src="https://media.licdn.com/dms/image/v2/D4D03AQEm4vmgVYOuRg/profile-displayphoto-crop_800_800/B4DZoqZmI3JMAI-/0/1761647944926?e=1763596800&v=beta&t=Ns4R9n8zcRXWeZlEhrnXWjE0zGKCJRO3-1W-1eOrMMA" 
+     alt="Kunal Chaudhary"
+     width="150"
+     align="right"
+     style="border-radius: 50%; border: 3px solid #0A66C2; box-shadow: 0 4px 10px rgba(0,0,0,0.2);" />
+
 
 
 > 💻 **Full Stack Developer | Corporate Trainer | Open Source Enthusiast**
