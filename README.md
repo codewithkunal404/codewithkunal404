@@ -4,13 +4,13 @@
 <div align="center" style="display: flex; align-items: center; justify-content: center; gap: 20px; flex-wrap: wrap;">
 
   <!-- Left: Banner -->
-  <div style="flex: 70%;">
+ <!-- <div style="flex: 70%;">
     <img 
       src="https://media.licdn.com/dms/image/v2/D4D16AQHppcSabe4OVA/profile-displaybackgroundimage-shrink_350_1400/B4DZoqX5hKH4AY-/0/1761647501405?e=1763596800&v=beta&t=W_NskJ_tZFCoY2cFo_QeLsFjrnYjVF4xWJMN04yTIl4"
       alt="Banner"
       style="width: 100%; border-radius: 12px; box-shadow: 0 2px 12px rgba(0,0,0,0.2);"
     />
-  </div>
+  </div>-->
 
   <!-- Right: Profile Image -->
   <div style="flex: 30%; text-align: center;">
