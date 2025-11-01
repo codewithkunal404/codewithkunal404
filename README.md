@@ -1,52 +1,84 @@
-# 🚀 CodeWithKunal404  
+<!-- 🌟 HEADER SECTION -->
+<h1 align="center">🚀 CodeWithKunal404</h1>
 
+<p align="center">
+  <img src="https://media.licdn.com/dms/image/v2/D4D16AQHppcSabe4OVA/profile-displaybackgroundimage-shrink_350_1400/B4DZoqX5hKH4AY-/0/1761647501405?e=1763596800&v=beta&t=W_NskJ_tZFCoY2cFo_QeLsFjrnYjVF4xWJMN04yTIl4" 
+       alt="Banner"
+       style="width:100%; border-radius:12px; box-shadow:0 2px 12px rgba(0,0,0,0.2);" />
+</p>
 
+<p align="center">
+  <img src="https://media.licdn.com/dms/image/v2/D4D03AQEm4vmgVYOuRg/profile-displayphoto-crop_800_800/B4DZoqZmI3JMAI-/0/1761647944926?e=1763596800&v=beta&t=Ns4R9n8zcRXWeZlEhrnXWjE0zGKCJRO3-1W-1eOrMMA"
+       alt="Kunal Chaudhary"
+       width="130"
+       style="border-radius:50%; border:3px solid #0A66C2; box-shadow:0 4px 10px rgba(0,0,0,0.25);" />
+</p>
 
-<img src="https://media.licdn.com/dms/image/v2/D4D16AQHppcSabe4OVA/profile-displaybackgroundimage-shrink_350_1400/B4DZoqX5hKH4AY-/0/1761647501405?e=1763596800&v=beta&t=W_NskJ_tZFCoY2cFo_QeLsFjrnYjVF4xWJMN04yTIl4" width="120" align="right">
+<p align="center">
+💻 <strong>Full Stack Developer | Corporate Trainer | Open Source Enthusiast</strong>
+</p>
 
-<!-- <img src="https://avatars.githubusercontent.com/u/96905815?s=400&u=553c5881b1c1c05f3243bf2ff49fd054692238b5&v=4" width="150" align="right"> -->
-<img src="https://media.licdn.com/dms/image/v2/D4D03AQEm4vmgVYOuRg/profile-displayphoto-crop_800_800/B4DZoqZmI3JMAI-/0/1761647944926?e=1763596800&v=beta&t=Ns4R9n8zcRXWeZlEhrnXWjE0zGKCJRO3-1W-1eOrMMA" width="120" align="right">
-
-
-> 💻 **Full Stack Developer | Corporate Trainer | Open Source Enthusiast**
-
-[![YouTube](https://img.shields.io/badge/YouTube-Subscribe-red?logo=youtube)](https://www.youtube.com/channel/UCPOBQjBYfP1w91Z77pZLbFg)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-brightgreen)](https://codewithkunal404.github.io/)
-[![GitHub](https://img.shields.io/badge/Projects-Here-blue)](https://github.com/codewithkunal404/Our-Projects)
+<p align="center">
+  <a href="https://www.youtube.com/channel/UCPOBQjBYfP1w91Z77pZLbFg">
+    <img src="https://img.shields.io/badge/YouTube-Subscribe-red?logo=youtube" />
+  </a>
+  <a href="https://codewithkunal404.github.io/">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-brightgreen" />
+  </a>
+  <a href="https://github.com/codewithkunal404/Our-Projects">
+    <img src="https://img.shields.io/badge/Projects-Here-blue" />
+  </a>
+</p>
 
 ---
 
 ## 👨‍💻 About Me  
 - 🔭 Trainer at **Ducat India Pvt. Ltd.**  
-- 🌱 Currently exploring **React** & **Node.js**  
-- 💬 Skilled in **PHP**, **Laravel**, and **Full Stack Web Development**  
-- 📫 Reach me at: [GitHub](https://github.com/codewithkunal404) | [YouTube](https://www.youtube.com/channel/UCPOBQjBYfP1w91Z77pZLbFg)  
-- ⚡ Fun Fact: Code, coffee, and creativity never stop ☕  
+- 🌱 Exploring **React**, **Node.js**, and modern full-stack workflows  
+- 💬 Skilled in **PHP**, **Laravel**, and **API Development**  
+- 🎯 Passionate about teaching and open-source contribution  
+- 📫 Connect: [GitHub](https://github.com/codewithkunal404) | [YouTube](https://www.youtube.com/channel/UCPOBQjBYfP1w91Z77pZLbFg)  
+- ⚡ Fun Fact: Code, coffee, and creativity ☕  
 
 ---
 
 ## 🧰 Tech Stack  
-`HTML5` • `CSS3` • `JavaScript` • `PHP` • `Laravel` • `MySQL` • `Node.js` • `MongoDB` • `Bootstrap` • `Firebase` • `Photoshop`  
+
+`HTML5` • `CSS3` • `JavaScript` • `PHP` • `Laravel` • `MySQL` • `Node.js` •  
+`MongoDB` • `Bootstrap` • `Firebase` • `Photoshop` • `REST APIs`
 
 ---
 
 ## 📊 GitHub Insights  
-![Stats](https://github-readme-stats.vercel.app/api?username=codewithkunal404&show_icons=true&theme=tokyonight&hide_border=true)  
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=codewithkunal404&theme=tokyonight&hide_border=true)  
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=codewithkunal404&show_icons=true&theme=tokyonight&hide_border=true" height="160" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=codewithkunal404&theme=tokyonight&hide_border=true" height="160" />
+</p>
 
 ---
 
 ## ✨ Quote of the Day  
 > “The best error message is the one that never shows up.”
 
-
+---
 
 ## 💰 Support My Work  
-[![Buy Me a Coffee](https://img.shields.io/badge/☕_Buy_Me_A_Coffee-ffdd00?style=flat&logo=buymeacoffee&logoColor=black)](https://buymeacoffee.com/codewithkunal404)  
-[![PayPal](https://img.shields.io/badge/💸_PayPal-00457C?style=flat&logo=paypal&logoColor=white)](https://paypal.me/codewithkunal404)  
-[![Ko-Fi](https://img.shields.io/badge/❤️_Ko--fi-F16061?style=flat&logo=ko-fi&logoColor=white)](https://ko-fi.com/codewithkunal404)
+
+<p align="center">
+  <a href="https://buymeacoffee.com/codewithkunal404">
+    <img src="https://img.shields.io/badge/☕_Buy_Me_A_Coffee-ffdd00?style=flat&logo=buymeacoffee&logoColor=black" />
+  </a>
+  <a href="https://paypal.me/codewithkunal404">
+    <img src="https://img.shields.io/badge/💸_PayPal-00457C?style=flat&logo=paypal&logoColor=white" />
+  </a>
+  <a href="https://ko-fi.com/codewithkunal404">
+    <img src="https://img.shields.io/badge/❤️_Ko--fi-F16061?style=flat&logo=ko-fi&logoColor=white" />
+  </a>
+</p>
 
 ---
 
-
-
+<p align="center">
+  <i>Made with ❤️ by <a href="https://github.com/codewithkunal404">Kunal Chaudhary</a></i>
+</p>
