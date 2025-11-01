@@ -44,7 +44,7 @@
 ---
 
 ## 👨‍💻 About Me  
-- 🔭 Trainer at **Ducat India Pvt. Ltd.**  
+- 🔭 Trained at **Ducat India Pvt. Ltd.**  
 - 🌱 Exploring **React**, **Node.js**, and modern full-stack workflows  
 - 💬 Skilled in **PHP**, **Laravel**, and **API Development**  
 - 🎯 Passionate about teaching and open-source contribution  
