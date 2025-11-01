@@ -1,18 +1,29 @@
 <!-- 🌟 HEADER SECTION -->
 <h1 align="center">🚀 CodeWithKunal404</h1>
 
-<p align="center">
-  <img src="https://media.licdn.com/dms/image/v2/D4D16AQHppcSabe4OVA/profile-displaybackgroundimage-shrink_350_1400/B4DZoqX5hKH4AY-/0/1761647501405?e=1763596800&v=beta&t=W_NskJ_tZFCoY2cFo_QeLsFjrnYjVF4xWJMN04yTIl4" 
-       alt="Banner"
-       style="width:100%; border-radius:12px; box-shadow:0 2px 12px rgba(0,0,0,0.2);" />
-</p>
+<div align="center" style="display: flex; align-items: center; justify-content: center; gap: 20px; flex-wrap: wrap;">
 
-<p align="center">
-  <img src="https://media.licdn.com/dms/image/v2/D4D03AQEm4vmgVYOuRg/profile-displayphoto-crop_800_800/B4DZoqZmI3JMAI-/0/1761647944926?e=1763596800&v=beta&t=Ns4R9n8zcRXWeZlEhrnXWjE0zGKCJRO3-1W-1eOrMMA"
-       alt="Kunal Chaudhary"
-       width="130"
-       style="border-radius:50%; border:3px solid #0A66C2; box-shadow:0 4px 10px rgba(0,0,0,0.25);" />
-</p>
+  <!-- Left: Banner -->
+  <div style="flex: 70%;">
+    <img 
+      src="https://media.licdn.com/dms/image/v2/D4D16AQHppcSabe4OVA/profile-displaybackgroundimage-shrink_350_1400/B4DZoqX5hKH4AY-/0/1761647501405?e=1763596800&v=beta&t=W_NskJ_tZFCoY2cFo_QeLsFjrnYjVF4xWJMN04yTIl4"
+      alt="Banner"
+      style="width: 100%; border-radius: 12px; box-shadow: 0 2px 12px rgba(0,0,0,0.2);"
+    />
+  </div>
+
+  <!-- Right: Profile Image -->
+  <div style="flex: 30%; text-align: center;">
+    <img 
+      src="https://media.licdn.com/dms/image/v2/D4D03AQEm4vmgVYOuRg/profile-displayphoto-crop_800_800/B4DZoqZmI3JMAI-/0/1761647944926?e=1763596800&v=beta&t=Ns4R9n8zcRXWeZlEhrnXWjE0zGKCJRO3-1W-1eOrMMA"
+      alt="Kunal Chaudhary"
+      width="150"
+      style="border-radius: 50%; border: 3px solid #0A66C2; box-shadow: 0 4px 10px rgba(0,0,0,0.25);"
+    />
+  </div>
+
+</div>
+
 
 <p align="center">
 💻 <strong>Full Stack Developer | Corporate Trainer | Open Source Enthusiast</strong>
