@@ -33,7 +33,7 @@
 ## ✨ Quote of the Day  
 > “The best error message is the one that never shows up.”
 
----
+
 
 ## 💰 Support My Work  
 [![Buy Me a Coffee](https://img.shields.io/badge/☕_Buy_Me_A_Coffee-ffdd00?style=flat&logo=buymeacoffee&logoColor=black)](https://buymeacoffee.com/codewithkunal404)  
@@ -42,6 +42,5 @@
 
 ---
 
-⭐ **“Keep building. Keep sharing. Keep inspiring.”**
 
-[![Visitor Count](https://visitcount.itsvg.in/api?id=codewithkunal404&icon=2&color=11)](https://visitcount.itsvg.in)
+
