@@ -43,15 +43,6 @@ I'm a **Full Stack Developer** and **Corporate Trainer** at Ducat India Pvt. Ltd
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=codewithkunal404&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="160" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=codewithkunal404&theme=tokyonight&hide_border=true" height="160" />
-</div>
-
----
-
 ## 💡 Quote
 
 > *"The best error message is the one that never shows up."*
