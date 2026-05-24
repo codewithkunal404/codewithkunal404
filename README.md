@@ -13,7 +13,7 @@
 
 ## About Me
 
-I'm a **Full Stack Developer** and **Corporate Trainer** at Ducat India Pvt. Ltd., passionate about building scalable web apps and sharing knowledge with the community.
+I'm a **Full Stack Developer** passionate about building scalable web apps and sharing knowledge with the community.
 
 - 🔭 Currently exploring **React**, **Node.js**, and modern full-stack workflows
 - 💬 Skilled in **PHP**, **Laravel**, and **API Development**
